@@ -14,7 +14,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     
     
     var simpsons:[Character] = [Character(name: "Bart", description: "El travieso de la familia", image: UIImage(named: "bart")!),
-    Character(name: "Homer", description: "Simio semi-desarrollado", image: UIImage(named: "homer")!),
+    Character(name: "Homer", description: "Simio subdesarrollado", image: UIImage(named: "homer")!),
     Character(name: "Marge", description: "Matriarca con Síndrome de Estocolmo", image: UIImage(named: "marge")!),
     Character(name: "Lisa", description: "Sabeloto vegana", image: UIImage(named: "lisa")!),
     Character(name: "Maggie", description: "Sin palabras", image: UIImage(named: "maggie")!)]
